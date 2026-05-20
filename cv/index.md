@@ -1,1 +1,1 @@
-<embed src="https://richivodes.github.io/cv/cv-3.pdf" type="application/pdf"/>
+<embed src="https://richicodes.github.io/cv/cv-3.pdf" type="application/pdf"/>
