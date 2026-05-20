@@ -1,1 +1,1 @@
-<a href="cv-3.pdf" class="image fit">
+<embed src="https://richivodes.github.io/cv/cv-3.pdf" type="application/pdf"/>
