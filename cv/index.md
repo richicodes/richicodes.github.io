@@ -1,1 +1,1 @@
-<a href="cv/cv-3.pdf" class="image fit">
+<a href="cv-3.pdf" class="image fit">
